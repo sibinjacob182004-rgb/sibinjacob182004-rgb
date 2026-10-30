@@ -69,20 +69,11 @@ class Sibin:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sibinjacob182004-rgb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibinjacob182004-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=sibinjacob182004-rgb&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sibinjacob182004-rgb&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%"/>
 
 </div>
 
